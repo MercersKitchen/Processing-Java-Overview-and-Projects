@@ -15,7 +15,6 @@ Basic Information from Processing-IDE
   - Processing Handbook, 2nd Edition
   - The Nature of Code
 
-
 ---
 
 ## Bibliography
@@ -24,5 +23,17 @@ Basic Information from Processing-IDE
 ---
 
 # To Include
+
+Drawing Program
+
+Music Program
+
+Tick Tak Toe
+
+Weather App (API)
+
+Pong (Introduction to OPP In Processing-JAVA)
+
+AP Labs 
 
 ---
