@@ -3,6 +3,7 @@ Overview of Resources and High School Projects
 
 Table of Contents
 - Bibliography
+- Introductory Computer Science
 
 Basic Information from Processing-IDE
 - *Ensure following is included in IDE*
@@ -22,6 +23,18 @@ Basic Information from Processing-IDE
 
 ---
 
+# Introductory Computer Science
+
+#### Happy Face
+- Java Compiler Execution of Main Program (2 - 3 requirements: folder and program name, void setup() & draw() )
+- Static and Active (Dynamic Modes)
+- Local and Global Variables (including HEAP and Garbage Collection)
+- Initiation, Declaration and Population of Variables
+- 2D Shapes and related functions (including defaults)
+- Layering for Animation using GUI and Visual Data Organization
+
+---
+
 # To Include
 
 Drawing Program
@@ -34,6 +47,6 @@ Weather App (API)
 
 Pong (Introduction to OPP In Processing-JAVA)
 
-AP Labs 
+AP Labs
 
 ---
