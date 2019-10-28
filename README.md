@@ -46,6 +46,10 @@ Tick Tak Toe
 Weather App (API)
 
 Pong (Introduction to OPP In Processing-JAVA)
+- Night-Sky_Single
+  - Review how constructor creates variables for rest of class and|or draw()
+  - Algorithm for "Half off Screen", per ellipse (student generated algorithm, not included in GitHub)
+
 
 AP Labs
 
