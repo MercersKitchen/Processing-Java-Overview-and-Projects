@@ -16,6 +16,10 @@ Basic Information from Processing-IDE
   - Processing Handbook, 2nd Edition
   - The Nature of Code
 
+Final Projects will be hosted in GitHub using the Releases TAB
+- Executable as a WINDOWS | Mac | Linux File
+- Executable as an Android Side Load with associated driver specifics
+
 ---
 
 ## Bibliography
@@ -37,13 +41,16 @@ Basic Information from Processing-IDE
 
 # To Include
 
+Home Screen Program
+
 Drawing Program
 
 Music Program
 
-Tick Tak Toe
-
 Weather App (API)
+
+Tick Tak Toe
+- Goes with Super Tic Tac Toe
 
 Pong (Introduction to OPP In Processing-JAVA)
 - Night-Sky_Single
