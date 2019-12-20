@@ -56,6 +56,7 @@ Weather App (API)
 
 Tick Tak Toe
 - Goes with Super Tic Tac Toe
+- Applications of algorithms using arrays
 
 Pong (Introduction to OPP In Processing-JAVA)
 - Night-Sky_Single
