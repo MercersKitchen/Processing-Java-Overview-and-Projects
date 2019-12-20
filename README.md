@@ -37,15 +37,20 @@ Final Projects will be hosted in GitHub using the Releases TAB
 - 2D Shapes and related functions (including defaults)
 - Layering for Animation using GUI and Visual Data Organization
 
+#### Home Screen
+- Learning about connecting mouse clicking to simple GUI changes
+
 ---
 
 # To Include
 
-Home Screen Program
-
 Drawing Program
+- Learning about modularity in Processing-JAVA
+- Adding touch screen interactions
 
 Music Program
+- Accessing modularity and GUI Interactions
+- Adding music and sound effects
 
 Weather App (API)
 
