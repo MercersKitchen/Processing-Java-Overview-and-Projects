@@ -1,3 +1,2 @@
 
-Use Releases TAB in Github to host Version Executibles
-
+Use Releases TAB in GitHub to host Version Executables

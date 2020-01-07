@@ -27,30 +27,52 @@ Final Projects will be hosted in GitHub using the Releases TAB
 
 ---
 
-# Introductory Computer Science
+# Introductory Computer Science Main Projects
+- See Introductory Computer Science for Lessons and Sequence of Projects
 
-#### Happy Face
-- Java Compiler Execution of Main Program (2 - 3 requirements: folder and program name, void setup() & draw() )
-- Static and Active (Dynamic Modes)
-- Local and Global Variables (including HEAP and Garbage Collection)
-- Initiation, Declaration and Population of Variables
-- 2D Shapes and related functions (including defaults)
-- Layering for Animation using GUI and Visual Data Organization
+#### Common Outcomes
+- Full Screen & Design Ratios
+- Quit Button
+- Side Loading to Android
 
-#### Home Screen
-- Learning about connecting mouse clicking to simple GUI changes
+#### Drawing Program
+
+Purpose
+- Learning Structural Modularity
+- Introduction to Tabs in Processing-JAVA (to Introduce Procedural Programming)
+
+Expectations
+- 2D Shapes
+- Images
+- Interactivity like color changing effects
+- Text
+- Mouse Interactions like drawing
+- Feature list that utilizes coding to mimic Paint.net, MS Paint, etc.
+
+#### Music Program
+
+Purpose: Introduction to Adding Libraries through Processing-JAVA IDE and the code
+- Adding music and sound effects
+
+Expectations
+- Buttons
+  - Quit Button
+  - Play-Pause
+  - Stop
+  - Forward, Reverse inside song (controlled by a variable and arrow keys)
+  - Loop: once, defined number, infinite (controlled by a variable and arrow keys)
+  - Next & Back Song Buttons with Introduction to Array Out of Bounds Error using IF
+- Features
+  - Meta Data: auto populating variables using music files
+    - Able to use a IF-null catch to console-log which variables will show information
+
+Advanced Features (Combinations of previous code)
+- Auto playing: when current song finishes, automatically play the next song
+- Music Organized into Folder accessed in code using pathways
 
 ---
 
 # To Include
-
-Drawing Program
-- Learning about modularity in Processing-JAVA
-- Adding touch screen interactions
-
-Music Program
-- Accessing modularity and GUI Interactions
-- Adding music and sound effects
 
 Weather App (API)
 
