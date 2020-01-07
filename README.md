@@ -89,6 +89,6 @@ Pong (Introduction to OPP In Processing-JAVA)
 AP Labs
 - Chatbot
   - Alternate: Password Program
-    - Password Generator
+    - Password Generator (see notes in `Advanced Computer Science / ReadMe.md`)
 
 ---
