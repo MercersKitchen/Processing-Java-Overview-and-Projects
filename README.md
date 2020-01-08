@@ -72,6 +72,19 @@ Advanced Features (Combinations of previous code)
 ---
 
 # Intermediate Computer Science
+- Using all expectations from Introductory Computer Science - manipulating visual and auditory data
+
+#### Common Outcomes
+- Full Screen & Design Ratios
+- Quit Button
+- Side Loading to Android
+
+#### Weather Program - Auto Populating Variables from an API
+
+#### Tic Tac Toe - Designing Algorithms to Play Tic Tac Toe
+- Organizing increasing complexity in algorithms to facilitate workflow in programming
+
+Advanced Applications: Super Tic Tac Toe
 
 
 ---
