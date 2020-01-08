@@ -1,5 +1,7 @@
-# Processing-Java Overview and Projects
+# Processing-Java Overview and Final Projects
 Overview of Resources and High School Projects
+
+**Purpose**: illustrate the depth of the final projects and how lessons weave to produce modularity in Programming
 
 Table of Contents
 - Bibliography
@@ -27,7 +29,7 @@ Final Projects will be hosted in GitHub using the Releases TAB
 
 ---
 
-# Introductory Computer Science Main Projects
+# Introductory Computer Science Final Project Progression (version of final exam and combined)
 - See Introductory Computer Science for Lessons and Sequence of Projects
 
 #### Common Outcomes
@@ -35,7 +37,9 @@ Final Projects will be hosted in GitHub using the Releases TAB
 - Quit Button
 - Side Loading to Android
 
-#### Drawing Program
+#### Drawing Program - focus on mouse or touch screen interactions through lessons
+- Review of entire course through a single project
+- Note: students are able to suggest their own case study addressing following expectations
 
 Purpose
 - Learning Structural Modularity
@@ -49,7 +53,7 @@ Expectations
 - Mouse Interactions like drawing
 - Feature list that utilizes coding to mimic Paint.net, MS Paint, etc.
 
-#### Music Program
+#### Music Program - focus on keyboard interactions and generalize to mouse or touch screen interactions
 
 Purpose: Introduction to Adding Libraries through Processing-JAVA IDE and the code
 - Adding music and sound effects
@@ -69,6 +73,11 @@ Expectations
 Advanced Features (Combinations of previous code)
 - Auto playing: when current song finishes, automatically play the next song
 - Music Organized into Folder accessed in code using pathways
+
+---
+
+#Intermediate Computer Science
+
 
 ---
 
