@@ -24,11 +24,6 @@ Final Projects will be hosted in GitHub using the Releases TAB
 
 ---
 
-## Bibliography
-
-
----
-
 # Introductory Computer Science Final Project Progression (version of final exam and combined)
 - See Introductory Computer Science for Lessons and Sequence of Projects
 
@@ -76,7 +71,23 @@ Advanced Features (Combinations of previous code)
 
 ---
 
-#Intermediate Computer Science
+# Intermediate Computer Science
+
+
+---
+
+# Advanced Computer Science
+
+
+
+
+
+---
+
+## Bibliography
+
+*To Be Completed*
+
 
 
 ---
