@@ -91,7 +91,13 @@ Advanced Applications: Super Tic Tac Toe
 
 # Advanced Computer Science
 
+AP Labs: Chatbot
+- Enrichment for Chatbot: Learning Responses
 
+Optional Projects
+- Password Program
+
+#### Password Program
 
 
 
