@@ -98,6 +98,20 @@ Introduction to artificial intelligence (using high school leveled mathematics)
   - "How can certain choices in game create other choices?"
   - "Why do some people with less experience in Tic Tak Toe win inconsistently? How do we program this?"
 
+GUI Expectations
+- Player keyboard (3 by 3)
+- Scoreboard and record of games played (extension: fileIO with .txt)
+- Reset button
+- Dark Mode
+
+Algorithm Procedures (illustration of translating game space into code)
+- 2-person mode: click section, write, and alternate X & O
+- Easy, medium, impossible modes: choice or hard coding of procedures below
+- Recognize 3 in a row and stop the game: update scoreboard, activate reset, celebrate win
+- Random Choice, response to X moves
+- Recognize 2 in a row and block or complete 3 in a row 
+- Advanced: quit and save game state, to be restarted when game restarted
+
 Exemplar Tic Tak Toe with Percentage Choices: https://github.com/QEHS-SpecialProjects/Tic-Tak-Toe-Dawson
 
 Advanced Applications: Super Tic Tac Toe
