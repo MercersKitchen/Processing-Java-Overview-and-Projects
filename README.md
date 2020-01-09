@@ -80,11 +80,25 @@ Advanced Features (Combinations of previous code)
 - Side Loading to Android
 
 #### Weather Program - Auto Populating Variables from an API
+- Review all Processing-Java, Introductory Computer Science
+- Use an API )(and all associated tools) to auto populate variables
+- Introduce feedback based on ranges of variables
 
 #### Tic Tac Toe - Designing Algorithms to Play Tic Tac Toe
 - Organizing increasing complexity in algorithms to facilitate workflow in programming
+- Based on Google's Tic Tak Toe (2-player, easy, medium, impossible)
+
+Introduction to AI
+- Layering ways to make choices and hardcoding these choices to create levels
+- Note: choices are made into procedures
+- Extension: create randomly choose a percent and then use that percent to make a choice
+  - "How can certain choices in game create other choices?"
+  - "Why do some people with less experience in Tic Tak Toe win inconsistently? How do we program this?"
+
+Exemplar Tic Tak Toe with Percentage Choices: https://github.com/QEHS-SpecialProjects/Tic-Tak-Toe-Dawson
 
 Advanced Applications: Super Tic Tac Toe
+- See Special Project: Super Tic Tak Toe in JavaScript, hosted locally
 
 
 ---
