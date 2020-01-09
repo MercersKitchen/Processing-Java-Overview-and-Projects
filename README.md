@@ -121,6 +121,13 @@ Optional Projects
 
 *To Be Completed*
 
+Java Tutorial for Beginners [2019]
+https://www.youtube.com/watch?v=eIrMbAQSU34&feature=youtu.be
+
+https://www.educba.com/signup/
+
+New Course: Data Structures and Algorithms Course
+https://www.youtube.com/watch?v=XBoZPCgdnm8&feature=youtu.be&x=1
 
 
 ---
