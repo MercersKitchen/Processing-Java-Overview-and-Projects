@@ -4,10 +4,16 @@ Overview of Resources and High School Projects
 **Purpose**: illustrate the depth of the final projects and how lessons weave to produce modularity in Programming
 
 Table of Contents
-- Bibliography, <a href="">Click Here</a>
-- Introductory Computer Science, <a href="">Click Here</a>
-- Intermediate Computer Science, <a href="">Click Here</a>
-- Advanced Computer Science (Includes Advanced Placement), <a href="">Click Here</a>
+- Bibliography,
+<a href="https://github.com/MercersKitchen/Processing-Java-Overview-and-Projects#bibliography">Click Here</a>
+- Introductory Computer Science,
+<a href="https://github.com/MercersKitchen/Processing-Java-Overview-and-Projects#introductory-computer-science-final-project-progression-version-of-final-exam-and-combined">Click Here</a>
+- Intermediate Computer Science,
+<a href="https://github.com/MercersKitchen/Processing-Java-Overview-and-Projects#intermediate-computer-science">Click Here</a>
+- Advanced Computer Science (Includes Advanced Placement),
+<a href="https://github.com/MercersKitchen/Processing-Java-Overview-and-Projects#advanced-computer-science">Click Here</a>
+
+Other Notes to include, <a href="https://github.com/MercersKitchen/Processing-Java-Overview-and-Projects#to-include">Click Here</a>
 
 ---
 
@@ -28,7 +34,7 @@ Final Projects will be hosted in GitHub using the Releases TAB
 
 ---
 
-# Introductory Computer Science Final Project Progression (version of final exam and combined)
+# Introductory Computer Science Final Project Progression (version of final exam)
 - See Introductory Computer Science for Lessons and Sequence of Projects
 
 #### Common Outcomes
