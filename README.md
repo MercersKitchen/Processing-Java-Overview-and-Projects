@@ -4,8 +4,12 @@ Overview of Resources and High School Projects
 **Purpose**: illustrate the depth of the final projects and how lessons weave to produce modularity in Programming
 
 Table of Contents
-- Bibliography
-- Introductory Computer Science
+- Bibliography, <a href="">Click Here</a>
+- Introductory Computer Science, <a href="">Click Here</a>
+- Intermediate Computer Science, <a href="">Click Here</a>
+- Advanced Computer Science (Includes Advanced Placement), <a href="">Click Here</a>
+
+---
 
 Basic Information from Processing-IDE
 - *Ensure following is included in IDE*
@@ -109,8 +113,10 @@ Algorithm Procedures (illustration of translating game space into code)
 - Easy, medium, impossible modes: choice or hard coding of procedures below
 - Recognize 3 in a row and stop the game: update scoreboard, activate reset, celebrate win
 - Random Choice, response to X moves
-- Recognize 2 in a row and block or complete 3 in a row 
+- Recognize 2 in a row and block or complete 3 in a row
 - Advanced: quit and save game state, to be restarted when game restarted
+
+Note: order and coding of algorithmic procedures forms game rules, ethics, and morals
 
 Exemplar Tic Tak Toe with Percentage Choices: https://github.com/QEHS-SpecialProjects/Tic-Tak-Toe-Dawson
 
@@ -120,9 +126,21 @@ Advanced Applications: Super Tic Tac Toe
 ---
 
 # Advanced Computer Science
+- Pong Game: review Procedural Programming Methodology and Introduce Object Orientated Programming Methodologies
+- Chatbot: Using Object Orientated Programming Methodologies for manipulating String Data (parsing, sorting, and searching)
+- [Optional, non Advanced Placement] Password Program: manipulating String Data as one String Literal (password or passphrase)
 
-AP Labs: Chatbot
-- Enrichment for Chatbot: Learning Responses
+Note: projects extend intermediate game rules, ethics, and morals to communication
+
+#### Pong
+
+Purpose: using visual data to learn new and abstract programming methodology (Object Orientated Programming)
+- For example: a pong ball becomes an `object` automatically tracked by the computer, and might be instantiated infinitely
+
+#### AP Labs: Chatbot
+- Enrichment for Chatbot: Learning Responses based on past responses
+
+Purpose: using String Literals in Arrays and Lists (extension from visual data)
 
 Optional Projects
 - Password Program
