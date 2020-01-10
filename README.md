@@ -126,13 +126,14 @@ Advanced Applications: Super Tic Tac Toe
 ---
 
 # Advanced Computer Science
-- Pong Game: review Procedural Programming Methodology and Introduce Object Orientated Programming Methodologies
+- Pong Game (Visual Data): review Procedural Programming Methodology and Introduce Object Orientated Programming Methodologies
 - Chatbot: Using Object Orientated Programming Methodologies for manipulating String Data (parsing, sorting, and searching)
 - [Optional, non Advanced Placement] Password Program: manipulating String Data as one String Literal (password or passphrase)
 
 Note: projects extend intermediate game rules, ethics, and morals to communication
 
 #### Pong
+- Uses Processing-Java: classes written in Pure Java, driver written in Processing-JAVA
 
 Purpose: using visual data to learn new and abstract programming methodology (Object Orientated Programming)
 - For example: a pong ball becomes an `object` automatically tracked by the computer, and might be instantiated infinitely
@@ -140,14 +141,23 @@ Purpose: using visual data to learn new and abstract programming methodology (Ob
 #### AP Labs: Chatbot
 - Enrichment for Chatbot: Learning Responses based on past responses
 
+CAUTION: Pure Java here directly uses JDK through CMD or PowerShell and a text editor like ATOM.io, Notepad++, or Visual Code
+- Other options like IntelliJ, Eclipse, & Netbeans are possible
+
 Purpose: using String Literals in Arrays and Lists (extension from visual data)
 
-Optional Projects
-- Password Program
-
 #### Password Program
+- Password Generator
 
-
+Password Generator
+- Summary of Returned Values indicating weak, adequate, and strong passwords (or similar scale)
+- Search of all passwords returning if it has been used before
+- Indicator if Password seems like a password or a passphrase (using PascalCasing, i.e. classes, or camelCasing, i.e. procedures or variables, or snake_casing)
+- Feature of Generating Random Passwords attending to
+  - "Easy to Say": generating grade 1 reading vocabulary or list of questions using a seed formula
+  - "Easy to Read": omitting characters that become confusing like S|5 or O|0 or 1|l|I|L|!|| (includes pipe as additional symbol)
+  - Characters only: upperCase only and lowerCase only (using function to convert regardless of `Caps Lock`), limiting numbers and symbols
+- Able to use NAN Error in Try-Catch as a decision loop
 
 ---
 
