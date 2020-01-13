@@ -1,6 +1,12 @@
 # Processing-Java Overview and Final Projects
 Overview of Resources and High School Projects
 
+What languages do we learn? (<a href="https://www.youtube.com/watch?v=bjFvcFjJpE0">
+Video Explanation</a>)
+- Processing-Java: manipulating visual based data, deploying to Android Devices
+- Pure-Java with JDK, CMD, PowerShell, and Atom.io
+- JavaScript with HTML, CSS, Chrome, and Atom.io
+
 **Purpose**: illustrate the depth of the final projects and how lessons weave to produce modularity in Programming
 
 Table of Contents
