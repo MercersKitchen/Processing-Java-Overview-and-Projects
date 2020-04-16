@@ -34,6 +34,8 @@ Basic Information from Processing-IDE
   - Processing Handbook, 2nd Edition
   - The Nature of Code
 
+- Configuring the IDE: go to https://github.com/MercersKitchen/Device-Sideloading-Android
+
 Final Projects will be hosted in GitHub using the Releases TAB
 - Executable as a WINDOWS | Mac | Linux File
 - Executable as an Android Side Load with associated driver specifics
